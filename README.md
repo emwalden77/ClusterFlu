@@ -1,6 +1,7 @@
 # ClusterFlu
 
 ## Installation
+```bash
 pip install scipy scikit-learn openTSNE pandas numpy umap-learn matplotlib seaborn 
 
 ## Data
