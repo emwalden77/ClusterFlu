@@ -20,6 +20,3 @@ To run the program, go to src to find the Jupyter Notebooks with code for analyz
 ## Results
 PCA, UMAP, and t-SNE 2D plots from both H3N2 and H1N1 clustering
 
-<iframe src="/../assets/H1N1_PCA_Date_Transformed_AllData.pdf" width="100%" height="600px"></iframe>
-
-
